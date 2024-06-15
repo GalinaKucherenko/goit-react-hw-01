@@ -1,0 +1,10 @@
+.container {
+    padding: 20px;
+    width: 780px;
+}
+li {
+    list-style: none;
+}
+img {
+    display: block;
+}
